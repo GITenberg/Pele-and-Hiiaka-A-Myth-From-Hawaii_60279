@@ -1,0 +1,27 @@
+_repo: Pele-and-Hiiaka-A-Myth-From-Hawaii_60279
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Emerson, Nathaniel Bright
+    alias: Emerson, N. B. (Nathaniel Bright)
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '9216'
+    url: http://www.gutenberg.org/2009/agents/9216
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Bright_Emerson
+description: ''
+gutenberg_issued: '2019-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60279'
+  lccn: '15014766'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- Hawaii'
+- !lcc 'GR'
+- GITenberg
+title: 'Pele and Hiiaka: A Myth From Hawaii'
+url: http://www.gutenberg.org/ebooks/60279
